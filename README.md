@@ -1,5 +1,5 @@
 ### Hi there <h1 align="center">Hi 👋, I'm Diego Cortez</h1>
-<h3 align="center">A passionate frontend developer from Bolivia</h3>
+<h3 align="center">A passionate Ethical Hacking from Bolivia</h3>
 
 - 📫 How to reach me **diegoedgardocortezyanez@gmail.com**
 
